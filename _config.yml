@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Samson Osamudiamhen Imhenisi-Ikotu
-email: ossysamson@gmail.com
-author: Ossysamsy
+title: "Samson Osamudiamhen Imhenisi-Ikotu"
+email: "ossysamson@gmail.com"
+author: "Ossysamsy"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -42,15 +42,8 @@ author: Ossysamsy
 #
 copyright: "(cleft) {currentYear} {author}"
 
-description: As an intermediate front-end developer with a good foundation in HTML, CSS,
-I have consistently delivered responsive, accessible, and user-centered web applications. 
-My experience includes working closely with design and back-end teams to optimize performance,
-and ensure cross-browser compatibility.
-Now, I am seeking to expand my skill set into full-stack development to become a more versatile 
-and autonomous engineer. I’m particularly interested in deepening my understanding and creating 
-completely skilled fullstack expert as well as gaining proficiency in deployment and DevOps tools.
-With my front-end expertise and eagerness to grow, I am confident in my ability to quickly adapt, 
-contribute to full project lifecycles, and collaborate effectively in multidisciplinary teams.
+description: "As an intermediate front-end developer with a good foundation in HTML, CSS, I have consistently delivered responsive, accessible, and user-centered web applications. My experience includes working closely with design and back-end teams to optimize performance, and ensure cross-browser compatibility."
+"Now, I am seeking to expand my skill set into full-stack development to become a more versatile and autonomous engineer. I’m particularly interested in deepening my understanding and creating completely skilled fullstack expert as well as gaining proficiency in deployment and DevOps tools. With my front-end expertise and eagerness to grow, I am confident in my ability to quickly adapt, contribute to full project lifecycles, and collaborate effectively in multidisciplinary teams."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
