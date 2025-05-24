@@ -40,7 +40,7 @@ author: Ossysamsy
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) {currentYear} {author}"
+copyright: "(cleft) {currentYear} {author}"
 
 description: As an intermediate front-end developer with a good foundation in HTML, CSS,
 I have consistently delivered responsive, accessible, and user-centered web applications. 
