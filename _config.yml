@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Samson Learn Tech
+title:Samson Osamudiamhen Imhenisi-Ikotu
 email: ossysamson@gmail.com
-author: Samson Ossy Imhenisi-Ikotu
+author: Ossysamsy
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,15 +40,14 @@ author: Samson Ossy Imhenisi-Ikotu
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: As an intermediate front-end developer with a good foundation in HTML, CSS, I have consistently delivered responsive, accessible, and user-centered web applications. My experience includes working closely with design and back-end teams to optimize performance, and ensure cross-browser compatibility.
+Now, I am seeking to expand my skill set into full-stack development to become a more versatile and autonomous engineer. I’m particularly interested in deepening my understanding and creating completely skilled fullstack expert as well as gaining proficiency in deployment and DevOps tools.
+With my front-end expertise and eagerness to grow, I am confident in my ability to quickly adapt, contribute to full project lifecycles, and collaborate effectively in multidisciplinary teams.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ossylearntech" # the subpath of your site, e.g. /blog
+url: "https://ossysamsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
